@@ -16,7 +16,8 @@ function yourAnimal() {
 yourAnimal()
 
 function add2(n) {
-console.log(`${n}`)
+  const two =2
+console.log(`${n}+ two`)
 
   // Feel free to move things around!
 
