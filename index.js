@@ -16,8 +16,7 @@ function yourAnimal() {
 yourAnimal()
 
 function add2(n) {
-
-  return n 
+console.log(`${n}`)
 
   // Feel free to move things around!
 
